@@ -1,1 +1,7 @@
 
+[[theme]]
+name = "CGS starwars"
+repository = "https://github.com/CorentinGS/corentings-leftwm-theme-starwars"
+commit = "*"
+version = "0.0.1"
+leftwm_versions = "*"
